@@ -3,6 +3,11 @@ Garb
 
   http://github.com/vigetlabs/garb
 
+Customize
+=========
+
+  Enable "Garb.proxy_user" and "Garb.proxy_password"
+
 Important Changes
 =================
 
